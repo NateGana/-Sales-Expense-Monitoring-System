@@ -5,8 +5,7 @@ A clean, simple dashboard to keep track of daily sales, business expenses, and o
 
 This project is currently under active development as I continue refining features and building projects to practice data handling, local storage management, and dynamic UI design for my Information Management coursework.
 
-Check out the live web app here
-live link: https://nategana.github.io/-Sales-Expense-Monitoring-System/
+Check out the live web app here: https://nategana.github.io/-Sales-Expense-Monitoring-System/
 
 ✨ Current Features
 📈 Live Financial Overview: Automatically calculates total revenue, total expenses, net profit/loss, and profit margins on the fly.
