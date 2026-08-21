@@ -8,6 +8,7 @@ This project is currently under active development as I continue refining featur
 Check out the live web app here: https://nategana.github.io/-Sales-Expense-Monitoring-System/
 
 ✨ Current Features
+
 📈 Live Financial Overview: Automatically calculates total revenue, total expenses, net profit/loss, and profit margins on the fly.
 
 💵 Transaction Logging: Quickly record sales and expenses with details like date, category, payment method, and descriptions.
